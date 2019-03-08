@@ -1,6 +1,6 @@
 ﻿**XinFin Content Contribution Home**
 
-Content contribution home for [Xinfin](https://howto.xinfin.org/), [Tradefinex](http://docs.tradefinex.org), [MyContract](http://docs.mycontract.co), [Kramaa](http://docs.kramaa.com)
+Content contribution home for [Xinfin](https://content.xinfin.org/XinFin/XinFin/), [Tradefinex](https://content.xinfin.org/TradeFinex/TradeFinex/), [MyContract](https://content.xinfin.org/MyContract/MyContract/), [Kramaa](https://content.xinfin.org/Kramaa/Kramaa/)
 
 XinFin Content is an open platform for authentic voices to share their thoughts and experiences, and through conversation move us towards greater understanding.
 
