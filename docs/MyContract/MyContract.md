@@ -6,13 +6,13 @@
 
 !!! How-To-Guide
 
-        - Create and Deploy Contract without code expertise
+        - [Create and Deploy Contract without Code Expertise](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/MyContract/cdcce.md)
 
-        - How to Create Token and Kick start Project
+        - [How to Create Token and Kick start Project](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/MyContract/hctkp.md)
 
-        - How to Setup STO token under XinFin Network
+        - [How to Setup STO token under XinFin Network](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/MyContract/hssxn.md)
 
-        - How to Setup Business using MyContract API
+        - [How to Setup Business using MyContract API](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/MyContract/hsbma.md)
 
 !!! Media-Announcement
 
