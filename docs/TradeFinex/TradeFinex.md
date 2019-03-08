@@ -2,21 +2,21 @@
 
 !!! How-To-Page
 
-        - Create and Deploy a Stable Coin 
+        - [Create and Deploy a Stable Coin](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/cdse.md)
 
-        - Create and Deploy Loyalty Token 
+        - [Create and Deploy Loyalty Token](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/cdlt.md)
 
-        - Create and Deploy a Bond
+        - [Create and Deploy a Bond](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/cdb.md)
 
-        - ISO20022 Compliant API to create MSME identity on tradefinex
+        - [ISO20022 Compliant API to create MSME identity on tradefinex](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/iso.md)
 
 !!! FAQ-Page
 
-        - Create and Deploy a Stable Coin
+        - [Create and Deploy a Stable Coin](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/cdsefaq.md)
 
-        - Create and Deploy Loyalty Token
+        - [Create and Deploy Loyalty Token](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/cdltfaq.md)
 
-        - Create and Deploy a Bond
+        - [Create and Deploy a Bond](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/TradeFinex/cdbfaq.md)
 
 !!! Media-Announcement
 
