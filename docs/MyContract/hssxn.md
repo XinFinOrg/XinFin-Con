@@ -1,0 +1,1 @@
+﻿**How to Setup STO Token Under XinFin Network**
