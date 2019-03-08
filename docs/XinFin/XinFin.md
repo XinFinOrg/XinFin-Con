@@ -2,7 +2,7 @@
 
 !!! How-To-Page
 
-        - Full node Vs Masternode Vs Private Network
+        - [Full node Vs Masternode Vs Private Network](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/XinFin/FNVMNVPN.md)
 
         - How to Use Mobile Wallet 
 
