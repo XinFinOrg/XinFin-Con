@@ -1,5 +1,5 @@
-site_name: Kramaa
-site_description: Blockchain platform for secure IoT
+site_name: XinFin Content
+site_description: Content Management for XinFin
 theme:
   name: 'readthedocs'
   custom_dir: material_override
@@ -41,17 +41,16 @@ extra:
         - type: 'medium'
           link: 'https://medium.com/xinfin'
 
-site_url: https://www.kramaa.com
-repo_url: https://github.com/XinFinOrg/Docs-kramaa
-repo_name: XinFinOrg/Docs-kramaa
+site_url: https://content.xinfin.org
+repo_url: https://github.com/XinFinOrg/XinFin-Con
+repo_name: XinFinOrg/XinFin-Con
 
 nav:
     - Introduction: index.md
-    - Getting Started:
-        - Guide/how_to_setup.md
-    - Media Room:
-        - Media/Articles.md
-    - FAQ:
-        - faq/General.md
+    - Active Topic:
+        - XinFin/XinFin.md
+        - TradeFinex/TradeFinex.md
+        - MyContract/MyContract.md
+        - Kramaa/Kramaa.md
 
-copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/Docs-kramaa/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/Docs-kramaa/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Kramaa.
+copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/XinFin-Con/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/XinFin-Con/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>XinFin Content.
