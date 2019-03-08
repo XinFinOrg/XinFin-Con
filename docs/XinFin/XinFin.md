@@ -2,11 +2,11 @@
 
 !!! How-To-Page
 
-        - [Full node Vs Masternode Vs Private Network](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/XinFin/FNVMNVPN.md)
+        - [Full node Vs Masternode Vs Private Network](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/FNVMNVPN.md)
 
-        - [How to Use Mobile Wallet](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/XinFin/HUMW.md)
+        - [How to Use Mobile Wallet](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/HUMW.md)
 
-        - [How to Create, Store and access Private Key](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/XinFin/HCSAPK.md)
+        - [How to Create, Store and access Private Key](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/HCSAPK.md)
 
 
 !!! FAQ-Page
