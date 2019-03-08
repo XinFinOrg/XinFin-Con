@@ -1,2 +1,0 @@
-# XinFin-Con
-XinFin-Con
