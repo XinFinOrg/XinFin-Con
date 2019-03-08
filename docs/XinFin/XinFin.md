@@ -19,9 +19,9 @@
 
 !!! Media-Announcement
 
-        - [XinFin Inviting Institution and Regulated entity to Create Bond POC]()
+        - [XinFin Inviting Institution and Regulated entity to Create Bond POC](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/CBPOC.md)
 
-        - [Full node Vs Masternode Vs Private Network]()
+        - [Full node Vs Masternode Vs Private Network](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/FNVMNVPNHOW.md)
         
         - [XinFin Releases Blockchain Test Network “Apothem” With Efficient DPoS Consensus And KYC Integration](https://medium.com/@social_75814/e483bf3df71c)
 
