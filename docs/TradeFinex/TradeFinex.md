@@ -20,13 +20,13 @@
 
 !!! Media-Announcement
 
-        - Invitation to Create and Deploy Financial instruments on Tradefinex 
+        - [Invitation to Create and Deploy Financial instruments on Tradefinex](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/CDF.md)
 
-        - XinFin Inviting Institution and Regulated entity to Create Bond POC.
+        - [XinFin Inviting Institution and Regulated entity to Create Bond POC](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/XIIREB.md)
 
-        - Invitation to Center Bank to issue Currency on TradeFinex
+        - [Invitation to Center Bank to issue Currency on TradeFinex](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/CBCT.md)
 
-        - Liquidity Bridge with R3 Corda to Enhance the global Liquidity.
+        - [Liquidity Bridge with R3 Corda to Enhance the global Liquidity](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/R3Cor.md)
 
 !!! Info
 
