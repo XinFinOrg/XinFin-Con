@@ -25,7 +25,7 @@
         
         - [XinFin Releases Blockchain Test Network “Apothem” With Efficient DPoS Consensus And KYC Integration](https://medium.com/@social_75814/e483bf3df71c)
 
-        - XinFin Release new Address Pre Fix start with XDC.
+        - [XinFin Release new Address Pre Fix start with XDC](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/XRAPFX.md)
 
 
 !!! Info
