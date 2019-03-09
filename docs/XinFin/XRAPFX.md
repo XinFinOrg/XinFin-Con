@@ -1,1 +1,1 @@
-﻿**How to Use Mobile Wallet:**
+﻿**XinFin Release new Address Pre Fix start with XDC:**
