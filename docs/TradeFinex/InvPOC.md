@@ -1,0 +1,1 @@
+**[Invitation to Start POC for Invoice factoring for quickbooks(intuit) 45million userbase on TradeFinex's INFactor**

@@ -1,1 +1,1 @@
-﻿**XinFin Release new Address Pre Fix start with XDC:**
+﻿**How XinFin change EVM to XVM (XinFin Virtual Machine):**
