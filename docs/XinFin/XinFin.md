@@ -27,7 +27,7 @@
 
         - [XinFin Release new Address Pre Fix start with XDC](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/XRAPFX.md)
 
-        - [How XinFin change EVM to XVM](XinFin Virtual Machine)(https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/XVM.md)
+        - [How XinFin change EVM to XVM](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/XVM.md)
 
 !!! Info
 
