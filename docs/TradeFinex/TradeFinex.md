@@ -30,7 +30,7 @@
 
         - [Liquidity Bridge with R3 Corda to Enhance the global Liquidity](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/R3Cor.md)
 
-        - [Connect Quick book Invoice state with Blockchain]()
+        - [Connect Quick book Invoice state with Blockchain](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/QuickB.md)
 
 
 !!! Info
