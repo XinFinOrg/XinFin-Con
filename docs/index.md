@@ -1,11 +1,11 @@
 ﻿**XinFin Content Contribution Home**
 
-Content contribution home for [Xinfin](https://content.xinfin.org/XinFin/XinFin/), [Tradefinex](https://content.xinfin.org/TradeFinex/TradeFinex/), [MyContract](https://content.xinfin.org/MyContract/MyContract/), [Kramaa](https://content.xinfin.org/Kramaa/Kramaa/)
+Content contribution home for [XinFin](https://content.xinfin.org/XinFin/XinFin/), [TradeFinex](https://content.xinfin.org/TradeFinex/TradeFinex/), [MyContract](https://content.xinfin.org/MyContract/MyContract/), [Kramaa](https://content.xinfin.org/Kramaa/Kramaa/)
 
-XinFin Content is an open platform for authentic voices to share their thoughts and experiences, and through conversation move us towards greater understanding.
+XinFin Content is an open platform for authentic voices to share their thoughts and experiences, and through conversation; move us towards greater understanding.
 
 We believe in the power of words to create, build up, inform, nourish, and repair. 
-To be eligible for inclusion and potential monetization from member-only content, user posts must meet Xinfin Content Rules as well as the following guidelines and content requirements.
+To be eligible for inclusion and potential monetization from member-only content, user posts must meet XinFin Content Rules as well as the following guidelines and content requirements.
 
 
 - You may not sell advertising in or on your member-only content.
@@ -19,4 +19,4 @@ To be eligible for inclusion and potential monetization from member-only content
 
 **Reporting Content:**
 
-If you see member-only content that you believe violates these rules and guidelines, please flag the post in the product or send them to info@xinfin.org for review.
+If you see member-only content that you believe violates these rules and guidelines, please flag the post in the product or send the same at info@xinfin.org for review.
