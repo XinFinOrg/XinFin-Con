@@ -1,6 +1,6 @@
 ﻿**XinFin:**
 
-!!! How-To-Page
+!!! How-To Guide
 
         - [Full node Vs Masternode Vs Private Network](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/FNVMNVPNHOW.md)
 
@@ -9,7 +9,7 @@
         - [How to Create, Store and access Private Key](https://github.com/XinFinOrg/XinFin-Con/blob/master/docs/XinFin/HCSAPK.md)
 
 
-!!! FAQ-Page
+!!! FAQs
 
         - TBA
 
@@ -17,7 +17,7 @@
 
         - TBA
 
-!!! Media-Announcement
+!!! Media Announcement
 
         - [XinFin Inviting Institution and Regulated entity to Create Bond POC](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/XinFin/CBPOC.md)
 
