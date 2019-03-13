@@ -1,6 +1,6 @@
 ﻿**Kramaa**
 
-!!! Case-Study
+!!! Case Study
 
         - [How to Setup IoT device](https://docs.kramaa.com/Guide/how_to_setup/)
 
@@ -8,7 +8,7 @@
 
         - TBA
 
-!!! Media-Announcement
+!!! Media Announcement
 
         - TBA
 
