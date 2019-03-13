@@ -1,6 +1,6 @@
 ﻿**TradeFinex:**
 
-!!! How-To-Page
+!!! How-To-Guide
 
         - [Create and Deploy a Stable Coin](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/cdse.md)
 
@@ -10,7 +10,7 @@
 
         - [ISO20022 Compliant API to create MSME identity on tradefinex](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/iso.md)
 
-!!! FAQ-Page
+!!! FAQs
 
         - [Create and Deploy a Stable Coin](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/cdsefaq.md)
 
@@ -18,7 +18,7 @@
 
         - [Create and Deploy a Bond](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/cdbfaq.md)
 
-!!! Media-Announcement
+!!! Media Announcement
 
         - [Invitation to Create and Deploy Financial instruments on Tradefinex](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/CDF.md)
 
