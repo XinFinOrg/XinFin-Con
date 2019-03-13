@@ -4,7 +4,7 @@
 
         - [Partner Kit](https://docs.google.com/document/d/1hW0FHqsOeDu51u7fXKjKrf8lD_KjFFGehCpOpwpYIvw)
 
-!!! How-To-Guide
+!!! How-To Guide
 
         - [Create and Deploy Contract without Code Expertise](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/MyContract/cdcce.md)
 
