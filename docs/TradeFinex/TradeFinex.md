@@ -1,6 +1,6 @@
 ﻿**TradeFinex:**
 
-!!! How-To-Guide
+!!! How-To Guide
 
         - [Create and Deploy a Stable Coin](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/cdse.md)
 
