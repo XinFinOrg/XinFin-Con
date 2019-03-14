@@ -1,10 +1,10 @@
 ﻿**My Contract:**
 
-!!! Case Study
+!!! Case-Study
 
         - [Partner Kit](https://docs.google.com/document/d/1hW0FHqsOeDu51u7fXKjKrf8lD_KjFFGehCpOpwpYIvw)
 
-!!! How-To Guide
+!!! How-to-Guide
 
         - [Create and Deploy Contract without Code Expertise](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/MyContract/cdcce.md)
 
@@ -14,7 +14,7 @@
 
         - [How to Setup Business using MyContract API](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/MyContract/hsbma.md)
 
-!!! Media Announcement
+!!! Media-Announcement
 
         - TBA
 
