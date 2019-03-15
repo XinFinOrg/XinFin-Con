@@ -1,6 +1,8 @@
 ﻿**Connect Quick book Invoice state with Blockchain**
 QuickBooks users can now connect their Invoice Data with InFactor a XinFin Blockchain Platform
 
+![overview](/assets/Quick.jpg)
+
 Developer Network at XinFin today announced that QuickBooks users can now connect their invoice data directly with InFactor, a blockchain-based invoice factoring platform from XinFin. By connecting their invoice data with InFactor, QuickBooks users (companies/suppliers who want to factor their invoices) can utilize their account receivables (AR) to rapidly access cash without any additional effort of moving invoices from one system to another. 
 
 After completing a quick setup on their local machine, QuickBooks users can sync their invoices with InFactor. InFactor is authorized to access the complete user’s invoice data including the details of company, customers, suppliers, employees, and invoice mapping is done automatically for users looking to factor their invoices on InFactor platform. 
