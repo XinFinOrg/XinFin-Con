@@ -7,6 +7,7 @@ After completing a quick setup on their local machine, QuickBooks users can sync
 
 URL:https://github.com/XinFinOrg/Developer-Resource/blob/master/docs/dapp/infactor.io/quickbook-integration.md
 *Please note that it’s a TestNet PoC URL and will go into production once XinFin MainNet gets launched.
+
 “Lack of liquidity is one of the major reasons small businesses struggle. InFactor will help QuickBooks users improve their cash flow by making invoice factoring a piece-of-cake in the first place. InFactor will capture the existing data sets from QuickBooks and map them automatically to fetch new invoices for factoring. While it saves companies the trouble of uploading every single invoice on our platform, it also connects companies with financiers looking to buy the invoices for factoring. This improves liquidity for small businesses”, said Can Inac, Ecosystem  Partner, XinFin. 
 
 Smaller segments with poor credit or with no financial track record are turned down by banks due to less risk appetite. InFactor will put the track record of all small businesses (who are QuickBooks users) on blockchain making their invoices accessible to global factors. This gives QuickBooks users access to a larger market for factoring. 
@@ -26,11 +27,6 @@ Website: https://www.xinfin.org/
 Telegram: https://t.me/xinfin
 Twitter: https://twitter.com/XinFin_Official
 Linkedin: https://linkedin.com/company/xinfin/
-
-There is no official agreement in Intuit so this paragraph is not required below.
-
-About QuickBooks:
-QuickBooks is a small business accounting software program businesses use to manage sales and expenses and keep track of daily transactions. Businesses use it to invoice customers, pay bills, generate reports for planning, tax filing, and more. To know more visit their website https://quickbooks.intuit.com/
 
 
 
