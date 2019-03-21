@@ -32,7 +32,7 @@
 
         - [Connect Quick book Invoice state with Blockchain](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/QuickB.md)
         
-        - [Trade Financial Partners with XinFin Network through ADGM Sandbox](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/TraceFinADGM.md)
+        - [Trace Financial Partners with XinFin Network through ADGM Sandbox](https://github.com/XinFinOrg/XinFin-Con/edit/master/docs/TradeFinex/TraceFinADGM.md)
 
 
 
